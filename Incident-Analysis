@@ -1,10 +1,5 @@
-## GOAL
-- Turn real log data into a triaged incident using Azure Data Explorer (KQL) and ServiceNow.
-
-## TO DO LIST
-- Query and analyze real security logs with KQL.
-- Identify suspicious activity.
-- Create and document an incident in ServiceNow.
-- Perform triage using a standard method.
-- Add evidence and recommendations. 
-- Close the incident
+## Mission:
+- Use Microsoft Azure VM to create a live honeypot open to the internet. 
+- Configure log forwarding to forward any failed attack attempts into a central repository. 
+- Connect the repository to a SIEM to allow log data to be queried.
+- Create an attack map to analyze where attacks generated from. 
