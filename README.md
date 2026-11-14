@@ -3,8 +3,8 @@
 Aspiring Cybersecurity Analyst | Based in Michigan | Looking for remote work
 
 ## I’m currently working on:
-Incident analysis
-Risk analysis
+- Incident analysis
+- Risk analysis
 
 ## I’m currently learning:
 GCR fundamentals 
